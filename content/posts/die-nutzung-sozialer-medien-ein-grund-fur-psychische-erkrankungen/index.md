@@ -18,7 +18,7 @@ Der Bildschirm leuchtet hell auf. Eine App nach der anderen wird geöffnet. Scro
 
 > *»Social Media has become a space in which we form and build relationships, shape self-identity, express ourselves, and learn about the world around us; it is intrinsically linked to mental health«* 
 >
-> *\- Shirley Cramer CBE, Former Chief Executive, RSPH [Link zur Quelle](https://www.rsph.org.uk/our-work/campaigns/status-of-mind.html>)*
+> *\- Shirley Cramer CBE, Former Chief Executive, RSPH [Link zur Quelle](https://www.rsph.org.uk/our-work/campaigns/status-of-mind.html)*
 
 Wir treffen Sophie, die sich dazu bereit erklärt hat, mit uns ein Interview zu führen. Sie leidet unter Symptomen einer Depression und vermutet, dass einer der Gründe dafür die sozialen Medien sein könnte, erklärt sie uns. Sie erzählt uns, dass sie merkt, wie sie ihre Zeit in den sozialen Medien nicht mehr unter Kontrolle hat, doch sich von den sozialen Medien zu entfernen ist für sie unvorstellbar.
 
