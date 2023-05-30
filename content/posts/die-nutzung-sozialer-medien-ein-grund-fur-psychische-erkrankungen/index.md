@@ -6,11 +6,9 @@ pinned = false
 description = ""
 footnotes = "\\*Erklärung in der Infobox ‘Was sind «soziale Netzwerke» überhaupt?’"
 +++
-{{<lead>}}
-
+`{{</*lead*/>}}`
 **Soziale Netzwerke werden immer beliebter. Sie ermöglichen Kontakt zwischen den Nutzer:innen über jede Entfernung hinweg. Doch mit dem Anstieg der User:innen, steigt auch die Kritik. Viele Studien und Psychiater weisen auf die Auswirkungen der sozialen Medien hin.**
-
-{{<lead>}}
+`{{</*lead*/>}}`
 
 Von **Manon Jenni** und **Amélie Roggo**
 
@@ -24,13 +22,11 @@ Wir treffen Sophie, die sich dazu bereit erklärt hat, mit uns ein Interview zu 
 
 Psychiatrische Erkrankungen sind seit dem Beginn der Nutzung der sozialen Medien erheblich häufiger geworden. Insbesondere die Diagnose der depressiven Symptome nimmt zu.  Wie Sophie leiden heutzutage viele Jugendliche unter Depressionen bzw. psychischen Erkrankungen. Die sozialen Medien werden verdächtigt, eine grosse Auswirkung darauf zu haben. Denn die virtuelle Welt wird oft auf vielen Ebenen mit der Realität verbunden.  Was im Netz passiert, hat Konsequenzen darauf, wie Menschen im echten Leben zum Beispiel hinsichtlich Emotionen und deren Verarbeitung umgehen.
 
-{{<box>}}
-
-{{<lead>}}
-
+{{<box title="Ausklappbare Box">}}
+`{{</*lead*/>}}`
 **Was sind «soziale Netzwerke» überhaupt?**
+`{{</*lead*/>}}`
 
-{{<lead>}}
 **Definition:** 
 Unter sozialen Medien versteht man alle digitalen Medien bzw. Plattformen, die Nutzern ermöglichen, sich im Internet zu vernetzen, so dass sie über virtuelle Gemeinschaften oder Netzwerken gegenseitig Kommunizieren und Informationen und Ideen interaktiv austauschen oder Teilen können. 
 Dazu gehören beispielsweise Plattformen wie Tiktok, YouTube, Instagram, Twitter, Snapchat oder auch WhatsApp. 
@@ -38,9 +34,7 @@ Dazu gehören beispielsweise Plattformen wie Tiktok, YouTube, Instagram, Twitter
 **Nutzung:**
 Man spricht von zwei unterschiedlichen Arten der Nutzung von sozialen Medien. Unter der passiven Nutzung versteht man, wenn man nur die Beiträge anderer liest oder anschaut. Aktive Nutzer:innen posten selber Inhalte, teilen oder kommentieren. 
 
-{{<box>}}
-
-
+`{{</*/box*/>}}`
 
 ![Bild 1](phone-light-dimmerhp.webp)
 
@@ -49,19 +43,16 @@ Man spricht von zwei unterschiedlichen Arten der Nutzung von sozialen Medien. Un
 Ausserdem eng miteinander verbunden sind die psychische Gesundheit und der Schlaf. Abendliche und nächtliche Nutzung der sozialen Medien erschweren nachweislich die gesundheitlich wichtige Schlafenszeit, die der Körper zum Regenerieren braucht. Insbesondere bei Apps wie TikTok, ist der Feed einzigartig und mithilfe des Algorithmus auf die jeweiligen Interessen der Nutzer:innen zugeschnitten. Dabei werden Videos mit einer Dauer von durchschnittlich 30 Sekunden vorgeschlagen, so dass man ständig unterhalten bleibt und die Bildschirmzeit nicht mehr unter Kontrolle hat. Durch einen «swipe» nach oben gelangt man auf das nächste Kurzvideo. Die vorgeschlagenen TikTok’s enden nie, man kann also unendlich viele davon anschauen. Dadurch gestaltet sich das Einschlafen schwierig, viele können sich schlecht vom Smartphone lösen und dies führt zu einer verkürzten Schlafenszeit. 
 Sophie selber habe deswegen Probleme und immer wieder Schwierigkeiten mit dem Einschlafen. «Mir fällt es schwer, das Smartphone am Abend auszuschalten. Oft gehe ich sehr spät schlafen und bin am folgenden Tag sehr müde und unkonzentriert. Manchmal schlafe ich auch mit dem Smartphone in der Hand ein und wache später in der Nacht wieder auf. »
 
-{{<lead>}}
-
+`{{</*lead*/>}}`
 Vermeintliche Experten in den sozialen Medien:
-
-{{<lead>}}
+`{{</*lead*/>}}`
 
 Wenn man die sozialen Medien verantwortungsvoll nutzt, kann man dadurch auch einen Wissenszuwachs erzielen. Zum Beispiel, indem man sie als Zugang zu Gesundheitserfahrungen von anderen Menschen oder Gesundheitsinformationen von Expert:innen verwendet. Es kann riskant sein, wenn man sich bei einem Verdacht auf psychische Erkrankungen nur auf Internetseiten informiert oder sich ausschliesslich dort Hilfe holt. Es gibt oft Expert:innen, die sich online als solche ausgeben, obwohl sie gar keine sind, sagt die Neuropsychologe Johanna Klar. Wir führen mit ihr ein Interview, in dem sie uns erklärt, dass es wichtig sei, dass die online Therapeuten irgendwo zu einer Organisation dazugehören sollten und dass die wirklichen Experte:innen im echten Leben nicht online ersetzt werden können. 
 
-{{<lead>}}
-
+`{{</*lead*/>}}`
 Die sozialen Medien aufgeklärt nutzen: 
+`{{</*lead*/>}}`
 
-{{<lead>}}
 Um von den sozialen Medien profitieren zu können, sollte man wissen, wie man sie am besten nutzt und wie sie im Hintergrund funktionieren.  «Ganz wichtig ist, dass man die Sachen, die man darauf sieht, sehr stark hinterfragt», erklärt Social Media-Managerin Céline Roggo. Johanna Klar sagt auch, dass es wichtig sei, Kinder und Jugendlichen einen guten Umgang mit sozialen Medien beizubringen, so dass sie wissen, welche Gefahren es gibt und Soziale Medien aufgeklärt nutzen. Dabei ist es auch sehr wichtig, dass man die sozialen Medien altersangemessen nutzt. Sophie erzählte uns in einem Interview, dass sie Instagram bereits mit 11 Jahren heruntergeladen habe, obwohl die Nutzung erst ab 13 Jahren erlaubt sei. Es gibt also auch jüngere User:innen, die bei der Anmeldung ein falsches Geburtsdatum angeben. Laut Viera Pirker, der Autorin des Artikels «Social Media und psychische Gesundheit» in ‘Communicatio Socialis’, einer Zeitschrift für Medienethik, wird die elterliche Verantwortung nicht umfassend genug wahrgenommen.  Die Eltern sollten das Thema mit ihren Kindern zusammen anschauen und erklären, statt nur zu warnen das soziale Medien schlecht seien und es ihnen zu verbieten. Ausserdem wäre es auch gut den Umgang mit den sozialen Medien in der Schule zu behandeln. 
 
 Im Lehrplan 21 sind die überfachlichen Kompetenzen eigentlich eingearbeitet. Die Lehrkräfte stärken die Schüler:innen in ihren Lebenskompetenzen. Mit der Vermittlung von Medienkunde soll eine fachliche Grundlage gelegt werden. Dafür gibt es z.B. «Freelance», ein Lehrmittel für Jugendliche. Die Schüler:innen sollen damit lernen das eigene Nutzungsverhalten zu reflektieren. Dabei geht es um verschiedene Themen, die mit den sozialen Medien verknüpft sind, wie zum Beispiel Selbstdarstellung oder die eigene Befindlichkeit im Netz. Die Schüler:innen sollen dazu angeregt werden, das Verhalten im Netz zu reflektieren und gegebenenfalls anzupassen.\
