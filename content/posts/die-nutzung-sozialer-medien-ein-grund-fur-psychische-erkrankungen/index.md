@@ -32,13 +32,15 @@ Unter sozialen Medien versteht man alle digitalen Medien bzw. Plattformen, die N
 Dazu gehören beispielsweise Plattformen wie Tiktok, YouTube, Instagram, Twitter, Snapchat oder auch WhatsApp. 
 
 **Nutzung:**
-Man spricht von zwei unterschiedlichen Arten der Nutzung von sozialen Medien. Unter der passiven Nutzung versteht man, wenn man nur die Beiträge anderer liest oder anschaut. Aktive Nutzer:innen posten selber Inhalte, teilen oder kommentieren. 
+Man spricht von zwei unterschiedlichen Arten der Nutzung von sozialen Medien. Unter der passiven Nutzung versteht man, wenn man nur die Beiträge anderer liest oder anschaut. Aktive Nutzer:innen posten selber Inhalte, teilen oder kommentieren.
 
 `{{</*/box*/>}}`
 
 ![Bild 1](phone-light-dimmerhp.webp)
 
 > «Mir fällt es schwer, das Smartphone am Abend auszuschalten.»
+
+`{{</*/box*/>}}`
 
 Ausserdem eng miteinander verbunden sind die psychische Gesundheit und der Schlaf. Abendliche und nächtliche Nutzung der sozialen Medien erschweren nachweislich die gesundheitlich wichtige Schlafenszeit, die der Körper zum Regenerieren braucht. Insbesondere bei Apps wie TikTok, ist der Feed einzigartig und mithilfe des Algorithmus auf die jeweiligen Interessen der Nutzer:innen zugeschnitten. Dabei werden Videos mit einer Dauer von durchschnittlich 30 Sekunden vorgeschlagen, so dass man ständig unterhalten bleibt und die Bildschirmzeit nicht mehr unter Kontrolle hat. Durch einen «swipe» nach oben gelangt man auf das nächste Kurzvideo. Die vorgeschlagenen TikTok’s enden nie, man kann also unendlich viele davon anschauen. Dadurch gestaltet sich das Einschlafen schwierig, viele können sich schlecht vom Smartphone lösen und dies führt zu einer verkürzten Schlafenszeit. 
 Sophie selber habe deswegen Probleme und immer wieder Schwierigkeiten mit dem Einschlafen. «Mir fällt es schwer, das Smartphone am Abend auszuschalten. Oft gehe ich sehr spät schlafen und bin am folgenden Tag sehr müde und unkonzentriert. Manchmal schlafe ich auch mit dem Smartphone in der Hand ein und wache später in der Nacht wieder auf. »
