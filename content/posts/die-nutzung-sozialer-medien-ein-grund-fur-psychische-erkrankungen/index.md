@@ -40,6 +40,8 @@ Man spricht von zwei unterschiedlichen Arten der Nutzung von sozialen Medien. Un
 
 {{<box>}}
 
+
+
 ![Bild 1](phone-light-dimmerhp.webp)
 
 > «Mir fällt es schwer, das Smartphone am Abend auszuschalten.»
