@@ -7,9 +7,8 @@ tags = ["Deutsch", "Reportage", "SozialeMedien", "NutzungsozialerMedien", "sozia
 description = ""
 footnotes = "\\*Erklärung in der Infobox ‘Was sind «soziale Netzwerke» überhaupt?’"
 +++
-`{{</*lead*/>}}`
 **Soziale Netzwerke werden immer beliebter. Sie ermöglichen Kontakt zwischen den Nutzer:innen über jede Entfernung hinweg. Doch mit dem Anstieg der User:innen, steigt auch die Kritik. Viele Studien und Psychiater weisen auf die Auswirkungen der sozialen Medien hin.**
-`{{</*lead*/>}}`
+
 
 Von **Manon Jenni** und **Amélie Roggo**
 
@@ -38,15 +37,12 @@ Man spricht von zwei unterschiedlichen Arten der Nutzung von sozialen Medien. Un
 Ausserdem eng miteinander verbunden sind die psychische Gesundheit und der Schlaf. Abendliche und nächtliche Nutzung der sozialen Medien erschweren nachweislich die gesundheitlich wichtige Schlafenszeit, die der Körper zum Regenerieren braucht. Insbesondere bei Apps wie TikTok, ist der Feed einzigartig und mithilfe des Algorithmus auf die jeweiligen Interessen der Nutzer:innen zugeschnitten. Dabei werden Videos mit einer Dauer von durchschnittlich 30 Sekunden vorgeschlagen, so dass man ständig unterhalten bleibt und die Bildschirmzeit nicht mehr unter Kontrolle hat. Durch einen «swipe» nach oben gelangt man auf das nächste Kurzvideo. Die vorgeschlagenen TikTok’s enden nie, man kann also unendlich viele davon anschauen. Dadurch gestaltet sich das Einschlafen schwierig, viele können sich schlecht vom Smartphone lösen und dies führt zu einer verkürzten Schlafenszeit. 
 Sophie selber habe deswegen Probleme und immer wieder Schwierigkeiten mit dem Einschlafen. «Mir fällt es schwer, das Smartphone am Abend auszuschalten. Oft gehe ich sehr spät schlafen und bin am folgenden Tag sehr müde und unkonzentriert. Manchmal schlafe ich auch mit dem Smartphone in der Hand ein und wache später in der Nacht wieder auf. »
 
-`{{</*lead*/>}}`
+
 Vermeintliche Experten in den sozialen Medien:
-`{{</*lead*/>}}`
 
 Wenn man die sozialen Medien verantwortungsvoll nutzt, kann man dadurch auch einen Wissenszuwachs erzielen. Zum Beispiel, indem man sie als Zugang zu Gesundheitserfahrungen von anderen Menschen oder Gesundheitsinformationen von Expert:innen verwendet. Es kann riskant sein, wenn man sich bei einem Verdacht auf psychische Erkrankungen nur auf Internetseiten informiert oder sich ausschliesslich dort Hilfe holt. Es gibt oft Expert:innen, die sich online als solche ausgeben, obwohl sie gar keine sind, sagt die Neuropsychologe Johanna Klar. Wir führen mit ihr ein Interview, in dem sie uns erklärt, dass es wichtig sei, dass die online Therapeuten irgendwo zu einer Organisation dazugehören sollten und dass die wirklichen Experte:innen im echten Leben nicht online ersetzt werden können. 
 
-`{{</*lead*/>}}`
 Die sozialen Medien aufgeklärt nutzen: 
-`{{</*lead*/>}}`
 
 Um von den sozialen Medien profitieren zu können, sollte man wissen, wie man sie am besten nutzt und wie sie im Hintergrund funktionieren.  «Ganz wichtig ist, dass man die Sachen, die man darauf sieht, sehr stark hinterfragt», erklärt Social Media-Managerin Céline Roggo. Johanna Klar sagt auch, dass es wichtig sei, Kinder und Jugendlichen einen guten Umgang mit sozialen Medien beizubringen, so dass sie wissen, welche Gefahren es gibt und Soziale Medien aufgeklärt nutzen. Dabei ist es auch sehr wichtig, dass man die sozialen Medien altersangemessen nutzt. Sophie erzählte uns in einem Interview, dass sie Instagram bereits mit 11 Jahren heruntergeladen habe, obwohl die Nutzung erst ab 13 Jahren erlaubt sei. Es gibt also auch jüngere User:innen, die bei der Anmeldung ein falsches Geburtsdatum angeben. Laut Viera Pirker, der Autorin des Artikels «Social Media und psychische Gesundheit» in ‘Communicatio Socialis’, einer Zeitschrift für Medienethik, wird die elterliche Verantwortung nicht umfassend genug wahrgenommen.  Die Eltern sollten das Thema mit ihren Kindern zusammen anschauen und erklären, statt nur zu warnen das soziale Medien schlecht seien und es ihnen zu verbieten. Ausserdem wäre es auch gut den Umgang mit den sozialen Medien in der Schule zu behandeln. 
 
