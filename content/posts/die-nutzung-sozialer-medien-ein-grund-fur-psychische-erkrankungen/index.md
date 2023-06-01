@@ -25,7 +25,9 @@ Psychiatrische Erkrankungen sind seit dem Beginn der Nutzung der sozialen Medien
 
 **Definition:** 
 Unter sozialen Medien versteht man alle digitalen Medien bzw. Plattformen, die Nutzern ermöglichen, sich im Internet zu vernetzen, so dass sie über virtuelle Gemeinschaften oder Netzwerken gegenseitig Kommunizieren und Informationen und Ideen interaktiv austauschen oder Teilen können. 
-Dazu gehören beispielsweise Plattformen wie Tiktok, YouTube, Instagram, Twitter, Snapchat oder auch WhatsApp. **Nutzung:**
+Dazu gehören beispielsweise Plattformen wie Tiktok, YouTube, Instagram, Twitter, Snapchat oder auch WhatsApp. 
+
+**Nutzung:**
 Man spricht von zwei unterschiedlichen Arten der Nutzung von sozialen Medien. Unter der passiven Nutzung versteht man, wenn man nur die Beiträge anderer liest oder anschaut. Aktive Nutzer:innen posten selber Inhalte, teilen oder kommentieren.``
 
 ![Bild 1](phone-light-dimmerhp.webp)
