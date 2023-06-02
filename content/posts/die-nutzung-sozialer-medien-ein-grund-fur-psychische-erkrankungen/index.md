@@ -3,7 +3,7 @@ title = "Die Nutzung sozialer Medien – ein Grund für psychische Erkrankungen?
 date = "2023-05-30"
 draft = false
 pinned = false
-tags = ["Deutsch", "Reportage", "SozialeMedien", "NutzungsozialerMedien", "sozialerMedieneinGrundfürpsychischeErkrankungen"]
+tags = ["Deutsch", "Reportage", "sozialeMedienalseinGrundfürpsychischeErkrankungen"]
 description = ""
 footnotes = "\\*Erklärung in der Infobox ‘Was sind «soziale Netzwerke» überhaupt?’"
 +++
