@@ -3,8 +3,8 @@ title = "Die Nutzung sozialer Medien – ein Grund für psychische Erkrankungen?
 date = "2023-05-30"
 draft = false
 pinned = false
-tags = ["Deutsch", "Reportage", "sozialeMedienalseinGrundfürpsychischeErkrankungen"]
-description = ""
+tags = []
+description = "Deutsch, Reportage, sozialeMedienalseinGrundfürpsychischeErkrankungen"
 footnotes = "\\*Erklärung in der Infobox ‘Was sind «soziale Netzwerke» überhaupt?’"
 +++
 **Soziale Netzwerke werden immer beliebter. Sie ermöglichen Kontakt zwischen den Nutzer:innen über jede Entfernung hinweg. Doch mit dem Anstieg der User:innen, steigt auch die Kritik. Viele Studien und Psychiater weisen auf die Auswirkungen der sozialen Medien hin.**
